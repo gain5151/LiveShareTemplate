@@ -2,12 +2,12 @@
 This is a template for liveshare.
 
 # For prepare
-cd ./LiveShareTeTemplate
-npm install
+$ cd ./LiveShareTeTemplate
+$ npm install
 
 
 # For run server
-npm run start
+$ npm run start
 
 
 # For debug
