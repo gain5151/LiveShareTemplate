@@ -9,6 +9,7 @@ app.get('/', (req, res) => {
 });
 
 app.listen(3000, () => {
-    console.log('Start server port:3000');
+    //console.log('Start server port:3000');
+    console.log('Please access >> http://localhost:3000');
 });
 
