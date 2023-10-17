@@ -6,11 +6,11 @@ cd ./LiveShareTeTemplate
 npm install
 
 
-# For start debug
+# For run server
 npm run start
 
 
-# For access
+# For debug
 http://localhost:3000
 
 
