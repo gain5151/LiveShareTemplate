@@ -1,16 +1,16 @@
 # LiveShareTemplate
 This is a template for liveshare.<br>
 
-# For prepare
+# Preparation
 $ cd ./LiveShareTeTemplate<br>
 $ npm install<br>
 
 
-# For run server
+# How to run server
 $ npm run start<br>
 
 
-# For debug
+# How to debug
 http://localhost:3000<br>
 
 
