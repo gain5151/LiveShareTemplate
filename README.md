@@ -26,6 +26,7 @@ $ reload -b -d public/<br>
 <br>
 
 # How to debug
-http://localhost:3000<br>
+~~http://localhost:3000~~ <br>
+http://localhost:8080<br>
 <br>
 
