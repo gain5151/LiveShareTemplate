@@ -17,7 +17,7 @@ This is a small sample.<br>
 
 +Please do below commands on root directory.<br>
 　$ cd ~/LiveShareTeTemplate<br>
-　$ npm install<br>
+　~~$ npm install~~<br>
 <br>
 
 # How to run server
