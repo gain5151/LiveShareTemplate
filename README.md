@@ -8,6 +8,7 @@ This is a small sample.<br>
 <br>
  
 +Please install plugin[LiveShare] with vscode.<br>
+![image](https://github.com/gain5151/LiveShareTemplate/assets/148036831/d9fc2059-5fb6-43a4-bb44-171d44878344)<br>
 <br>
 
 +Please install npm-pkg[reload] with below command in global environment.<br>
