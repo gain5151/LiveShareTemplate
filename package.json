@@ -1,4 +1,7 @@
 {
+  "watch":{
+    "start": "*/**/*.*"
+  },
   "name": "liveshare-server",
   "version": "0.1.0",
   "description": "",
@@ -14,8 +17,12 @@
     "uuid": "^3.3.3"
   },
   "scripts": {
-    "start": "node ./index.js"
+    "start": "node ./index.js",
+    "watch": "npm-watch"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "npm-watch": "^0.11.0"
+  }
 }
