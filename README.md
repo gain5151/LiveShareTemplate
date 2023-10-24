@@ -15,8 +15,8 @@ This is a small sample.<br>
 　$ npm i reload -g<br>
 <br>
 
-+Please do below commands on root of this project.<br>
-　$ cd ./LiveShareTeTemplate<br>
++Please do below commands on root directory.<br>
+　$ cd ~/LiveShareTeTemplate<br>
 　$ npm install<br>
 <br>
 
