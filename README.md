@@ -2,8 +2,14 @@
 This is a template for liveshare.<br>
 
 # Preparation
-$ cd ./LiveShareTeTemplate<br>
-$ npm install<br>
++Please get vscode or access below link<br>
+　-> <a href="https://vscode.dev" taret="_blank">vscode.dev</a><br>
+ <br>
++Please install plugin[LiveShare] with vscode.<br>
+<br>
++Please do below commands on root of this project.<br>
+　$ cd ./LiveShareTeTemplate<br>
+　$ npm install<br>
 
 
 # How to run server
