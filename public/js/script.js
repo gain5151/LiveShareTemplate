@@ -1,4 +1,4 @@
-alert(`Reading script is success!`);
+//alert(`Reading script is success!`);
 
 
 
