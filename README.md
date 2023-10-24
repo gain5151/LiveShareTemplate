@@ -1,5 +1,5 @@
 # LiveShareTemplate
-This is a template for liveshare.<br>
+This is a small sample.<br>
 
 # Preparation
 +Please get vscode or access below link<br>
